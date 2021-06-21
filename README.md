@@ -29,3 +29,14 @@ Nom Complet ---> Payet Emmanuel
 4.Réaliser une interface utilisateur avec une solution de gestion de contenu ou e-commerce
 
 
+***Back-end***
+
+1.Créer une base de données
+
+2.Développer les composants d'accès aux données
+
+3.Développer la partie back-end d'une application web ou web mobile
+
+4.Elaborer et mettre en oeuvre des composants dans une application de gestion de contenu ou e-commerce
+
+
