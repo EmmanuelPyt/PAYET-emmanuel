@@ -31,12 +31,12 @@ Nom Complet ---> Payet Emmanuel
 
 ***Back-end***
 
-1.Créer une base de données
+5.Créer une base de données
 
-2.Développer les composants d'accès aux données
+6.Développer les composants d'accès aux données
 
-3.Développer la partie back-end d'une application web ou web mobile
+7.Développer la partie back-end d'une application web ou web mobile
 
-4.Elaborer et mettre en oeuvre des composants dans une application de gestion de contenu ou e-commerce
+8.Elaborer et mettre en oeuvre des composants dans une application de gestion de contenu ou e-commerce
 
 
